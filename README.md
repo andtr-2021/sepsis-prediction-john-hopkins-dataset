@@ -9,7 +9,7 @@
 **Metrics**:
 * Prevent overfitting.
 * High recall score.
-* Simple algorithms.
+* Simple or ensemble algorithms.
 * Regularization (L2)
 
 Thus based on our evaluation metric, the scores of the models we tried are as below:
