@@ -1,16 +1,12 @@
 # Dataset Description
 
-The provided data is a modified version of a publicly available data source, and is subject to copyright.
+The provided data is a modified version of a publicly available data source.
 
 ### Donor of database: 
                           The Johns Hopkins University
                           Johns Hopkins Road
                           Laurel, MD 20707
                           (301) 953-6231
-
-### Licence agreement: 
-
-The dataset can only be used for the purpose of this assignment. Sharing or distributing this data or using this data for any other commercial or non-commercial purposes is prohibited.
 
 
 ### Data Fields
